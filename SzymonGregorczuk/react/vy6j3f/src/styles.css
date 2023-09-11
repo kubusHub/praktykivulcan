@@ -88,3 +88,6 @@ body {
 .game-info {
   margin-left: 20px;
 }
+.board-row{
+  display: flex;
+}
