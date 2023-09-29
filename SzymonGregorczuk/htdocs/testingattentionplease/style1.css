@@ -1,0 +1,40 @@
+table{
+    background-color: rgb(193, 193, 193);
+    margin: auto;
+    border: 1px solid rgb(193, 193, 193) ;
+    border-radius: 3px;
+
+    /* padding: 1px; */
+  }
+  th{
+    background-color: rgb(255, 255, 255);
+    border: 0px;
+    padding: 4px;
+    
+  }
+  td{
+    background-color: rgb(246, 246, 246);
+    border: none;
+    padding: 4px;
+    /* margin: 1px; */
+  }
+body{
+    font-style: normal;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+button{
+    border:0;
+    accent-color: rgb(255, 107, 70);
+}
+.addRecord {
+  border: 5px solid rgb(193, 193, 193);
+  background-color: rgb(193, 193, 193);
+  border-radius: 3px;
+  text-decoration: none;
+  color: black;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
